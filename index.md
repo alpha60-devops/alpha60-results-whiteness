@@ -12,7 +12,7 @@ These are results from sampling peer swarms associated with *media objects* bein
 
 Sample dates: 2018 to 2026
 
-{% include black-led-media-objects-list.html %}
+{% include whiteness-media-objects-list.html %}
 <div style="height: 50px;"></div>
 
 
@@ -33,7 +33,7 @@ Sample dates: 2018 to 2026
 - [Media Object Metadata](https://github.com/alpha60-devops/alpha60-btiha/tree/main/metadata) (title.json)
 - [2026 JSON API](docs/data-json.2026.md)
 
-### [Source](https://github.com/alpha60-devops/alpha60-results-black-led/tree/main/data)
+### [Source](https://github.com/alpha60-devops/alpha60-results-whiteness/tree/main/data)
 
 
 {::nomarkdown}
