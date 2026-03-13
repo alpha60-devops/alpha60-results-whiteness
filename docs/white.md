@@ -21,7 +21,7 @@ layout: default
 </script>
 
 {::nomarkdown}
-{% include blackled-downloads-by-week-cumulative-normalized-start.svg %}
+{% include whiteness-downloads-by-week-cumulative-normalized-start.svg %}
 {:/}
 <div style="height: 50px;"></div>
 
@@ -32,7 +32,7 @@ layout: default
 	src="../resources/izzi-leaflet-map-geojson.js">
 </script>
 
-{% include blackled-image-table.md %}
+{% include whiteness-image-table.md %}
 <div style="height: 50px;"></div>
 
 
@@ -42,19 +42,19 @@ layout: default
 	src="../resources/izzi-script-table-sort-inline.js">
 </script>
 
-{% include blackled-meta-collection-table.html %}
+{% include whiteness-meta-collection-table.html %}
 <div style="height: 50px;"></div>
 
-{% include blackled-media-objects-table.html %}
+{% include whiteness-media-objects-table.html %}
 <div style="height: 50px;"></div>
 
-{% include black-led-geo-slices-usa-weeks-1-5-10-20.html %}
+{% include whiteness-geo-slices-usa-weeks-1-5-10-20.html %}
 <div style="height: 50px;"></div>
 
-{% include black-led-geo-slices-africa.html %}
+{% include whiteness-geo-slices-africa.html %}
 <div style="height: 50px;"></div>
 
-{% include black-led-geo-slices-asia.html %}
+{% include whiteness-geo-slices-asia.html %}
 <div style="height: 50px;"></div>
 
 
