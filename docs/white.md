@@ -66,7 +66,7 @@ description: "Analysis of Whiteness peer-to-peer distribution"
 {% include whiteness-media-objects-table.html %}
 <div style="height: 50px;"></div>
 
-{% include whiteness-geo-slices-usa-weeks-1-5-10-20.html %}
+{% include whiteness-geo-slices-usa-weeks-1-5-15.html %}
 <div style="height: 50px;"></div>
 
 {% include whiteness-geo-slices-africa.html %}
