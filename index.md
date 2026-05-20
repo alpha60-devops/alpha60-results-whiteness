@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Whiteness"
+author: "Benjamin De Kosnik <bkoz@gnu.org>"
+description: "Analysis of Whiteness peer-to-peer distribution"
+---
+
 {::nomarkdown}
 <img src="resources/a60-logo-block-gray.simple.svg?sanitize=true" height="50" width="100">
 
@@ -17,7 +24,7 @@ Sample dates: 2018 to 2026
 
 
 ## Results, Commentary
-- [whiteness](/docs/white.md)
+- [Whiteness](/docs/white.md)
 <div style="height: 50px;"></div>
 
 
